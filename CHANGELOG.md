@@ -3,6 +3,7 @@
 - This CHANGELOG
 - README.md
 - .gitignore
+- requirements.txt
 - Initial project
 
 ### Changed
