@@ -1,6 +1,6 @@
 certifi==2019.11.28
 chardet==3.0.4
-Django==2.2.18
+Django==2.2.24
 django-modeladmin-reorder==0.3.1
 django-preferences==1.0.0
 idna==2.8
